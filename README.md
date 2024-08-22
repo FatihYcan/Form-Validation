@@ -47,3 +47,5 @@ Bu proje, kullanıcıdan çeşitli bilgileri toplayan ve bu bilgileri doğrulaya
 - Bootstrap
 
 https://github.com/user-attachments/assets/eac3fac6-a25e-4d78-bd7d-2d6b248f8e1b
+
+[Live](https://fy-form-validation.netlify.app/)
